@@ -9,4 +9,4 @@ You have yourself a horizontal (in-line) signup form.
 - Replace the mailing list URL that is currently in place, with your own. Although I’d love all of your subscribers, I don’t know if they’ll love me and we don’t want to confuse them.
 - If you absolutely dig this, use it, or think others will benefit from it, please give this a share.
 
-**Friends who Code:** If you have a more efficient and cleaner solution to the code, be sure to create a Pull Request and we’ll make any changes necessary.
+**Friends who Code:** If you have a more efficient and cleaner solution to the code, be sure to make a pull request and we’ll merge them.
