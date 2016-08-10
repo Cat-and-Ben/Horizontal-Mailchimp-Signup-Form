@@ -6,7 +6,8 @@ Mailchimp’s default code doesn’t create an in-line (Horizontal) signup form 
 You have yourself a horizontal (in-line) signup form.
 
 ###All we ask is:###
-- Replace the mailing list URL that is currently in place, with your own. Although we’d love all of your subscribers, we don’t know if they’ll love us and truthfully we don’t want to confuse them.
 - If you absolutely dig this, use it, or think others will benefit from it, please give this a star and/or share.
+- Replace the mailing list URL that is currently in place, with your own. Although we’d love all of your subscribers, we don’t know if they’ll love us and truthfully we don’t want to confuse them.
+- You can get your mailing list URL by going to Mailchimp Lists > Embeddable forms > then look in the code snippet for the section that starts with `<form action=` and copy that whole part and replace. 
 
 **Friends who Code:** If you have a more efficient and cleaner solution to the code, be sure to make a pull request and we’ll merge them.
